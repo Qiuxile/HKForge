@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/HKForge.Player/HKForge.Player.csproj" />
+  <Project Path="src/HKForge.Shared/HKForge.Shared.csproj" />
+  <Project Path="src/HKForge.Studio/HKForge.Studio.csproj" />
+</Solution>
